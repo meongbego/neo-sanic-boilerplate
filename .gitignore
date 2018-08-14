@@ -117,3 +117,4 @@ app/static/databases/*
 production/*
 production.sh
 
+plugins/*
