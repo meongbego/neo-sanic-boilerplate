@@ -42,5 +42,5 @@ python manage.py server
 
 ## Testing
 
-Go To Browser Open this Url: http://127.0.0.1:5000/api/test/<id>
+Go To Browser Open this Url: http://127.0.0.1:5000/api/test/people
 
